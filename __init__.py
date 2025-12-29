@@ -20,14 +20,9 @@ bl_info = {
 
 STATE = {
     "available": True,
-    "action": "render",
+    "action": "zip",
     "data": {
-        "cpu_enabled": False,
-        "gpu_enabled": True,
-        "optix_enabled": False,
-        "filepath": "golden_hour.blend",
-        "start_frame": 1,
-        "refetch": False
+        "filepath": ""
     },
     "status": "idle",  # 'rendering', 'idle'
 }
