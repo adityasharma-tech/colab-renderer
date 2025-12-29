@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "blender_colab_render"
+name = "Colab Render Bridge"
+version = "0.1.0"
+tagline = "Render Blender scenes on Google Colab"
+maintainer = "Aditya Sharma"
+type = "add-on"
+
+website = "https://adityasharma.tech"
+tags = ["Render", "Pipeline"]
+
+blender_version_min = "4.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
